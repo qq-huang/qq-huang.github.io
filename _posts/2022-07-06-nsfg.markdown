@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Nested Sampling for Non-Gaussian Inference in SLAM Factor Graphs"
+date:   2022-11-01 22:21:59 +00:00
+image: /images/nsfg.png
+categories: research
+author: "Qiangqiang Huang"
+authors: "<strong>Qiangqiang Huang</strong>, Alan Papalia, John J. Leonard"
+venue: "IEEE Robotics and Automation Letters (RA-L) & IEEE/RSJ IROS"
+arxiv: https://arxiv.org/abs/2109.10871
+code: https://github.com/MarineRoboticsGroup/nsfg
+video: /images/nsfg_teaser.mp4
+talk: /images/nsfg_IROS_talk.mp4
+---
+
+A Monte Carlo approach that leverages nested sampling to generate high‑quality samples of posterior distributions at the expense of computation. These samples serve as reference solutions for validating other inference methods.

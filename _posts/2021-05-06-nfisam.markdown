@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "NF‑iSAM: Incremental Smoothing and Mapping via Normalizing Flows"
+date:   2021-05-01 22:21:59 +00:00
+image: /images/nfisam-icra.png
+categories: research
+author: "Qiangqiang Huang"
+authors: "<strong>Qiangqiang Huang*</strong>, Can Pu*, Dehann Fourie, Kasra Khosoussi, Jonathan P. How, John J. Leonard"
+venue: "IEEE ICRA"
+arxiv: https://arxiv.org/abs/2105.05045
+code: https://github.com/MarineRoboticsGroup/NF-iSAM
+video: images/nfisam-icra.mp4
+talk: https://www.youtube.com/watch?v=uxgbbfs6UAE&t=1s
+---
+
+An algorithm that exploits the expressive power of neural networks, and trains normalizing flows to model and sample the joint posterior encountered in SLAM.

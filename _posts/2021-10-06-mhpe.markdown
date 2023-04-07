@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "A Multi‑Hypothesis Approach to Pose Ambiguity in Object‑Based SLAM"
+date:   2021-10-01 22:21:59 +00:00
+image: /images/mhpe.png
+categories: research
+author: "Qiangqiang Huang"
+authors: "Jiahui Fu, <strong>Qiangqiang Huang</strong>, Kevin Doherty, Yue Wang, John J. Leonard"
+venue: "IEEE IROS"
+arxiv: https://arxiv.org/abs/2108.01225
+video: https://www.youtube.com/watch?v=E4sheabxWBI
+talk: https://www.youtube.com/watch?v=EOncPXvFNQ4
+---
+
+This work presents a learned pose estimation network that provides
+multiple hypotheses about the 6D pose of an object, and formulates these hypotheses via mixture models in a SLAM backend.

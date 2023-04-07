@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Incremental Non‑Gaussian Inference for SLAM Using Normalizing Flows"
+date:   2022-11-01 22:21:59 +00:00
+image: /images/nfisam-tro.gif
+categories: research
+author: "Qiangqiang Huang"
+authors: "<strong>Qiangqiang Huang</strong>, Can Pu, Kasra Khosoussi, David M. Rosen, Dehann Fourie, Jonathan P. How, John J. Leonard"
+venue: "IEEE Transactions on Robotics (T-RO)"
+arxiv: https://arxiv.org/abs/2110.00876
+code: https://github.com/MarineRoboticsGroup/NF-iSAM
+video: /images/nfisam_tro_small_case.mp4
+---
+
+A solver that blends normalizing flows and the Bayes tree (aka. junction tree) to incrementally infer the joint posterior encountered in SLAM. Experiments were performed on range-only SLAM problems with data association ambiguity. This paper is an extension of our paper published in ICRA 2021.

@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "GAPSLAM: Blending Gaussian Approximation and Particle Filters for Real-Time Non-Gaussian SLAM"
+date:   2023-03-01 22:21:59 +00:00
+image: /images/gapslam.gif
+categories: research
+author: "Qiangqiang Huang"
+authors: "<strong>Qiangqiang Huang</strong>, John J. Leonard"
+venue: "arXiv preprint"
+arxiv: https://arxiv.org/abs/2303.14283
+code: https://github.com/doublestrong/gapslam
+video: https://user-images.githubusercontent.com/5796120/227429210-1b4cc67e-ec85-4073-b194-3746663c0fc2.mov
+---
+
+A real-time SLAM solver that infers marginal posteriors of robot poses and landmark locations. We demonstrate the evolution of posteriors on realworld range-only SLAM and object-based SLAM datasets.

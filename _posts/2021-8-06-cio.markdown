@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Consensus-Informed Optimization Over Mixtures for Ambiguity-Aware Object SLAM"
+date:   2021-05-01 22:21:59 +00:00
+image: /images/cio-iros.gif
+categories: research
+author: "Qiangqiang Huang"
+authors: "Ziqi Lu*, <strong>Qiangqiang Huang*</strong>, Kevin Doherty, John J. Leonard"
+venue: "IEEE IROS"
+arxiv: https://arxiv.org/abs/2107.09265
+video: /images/cio-iros.mp4
+talk: https://www.youtube.com/watch?v=506VSt0tq4o&t=1s
+---
+
+A real-time object-based SLAM system that is robust to symmetry- or occlusion-induced pose ambiguity from individual 6D object pose predictions.
