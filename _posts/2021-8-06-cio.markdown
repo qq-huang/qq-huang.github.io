@@ -6,7 +6,7 @@ image: /images/cio-iros.gif
 categories: research
 author: "Qiangqiang Huang"
 authors: "Ziqi Lu*, <strong>Qiangqiang Huang*</strong>, Kevin Doherty, John J. Leonard"
-venue: "IEEE IROS"
+venue: "IEEE/RSJ IROS"
 arxiv: https://arxiv.org/abs/2107.09265
 video: /images/cio-iros.mp4
 talk: https://www.youtube.com/watch?v=506VSt0tq4o&t=1s
