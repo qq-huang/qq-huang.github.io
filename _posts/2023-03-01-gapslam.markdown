@@ -6,7 +6,7 @@ image: /images/gapslam.gif
 categories: research
 author: "Qiangqiang Huang"
 authors: "<strong>Qiangqiang Huang</strong>, John J. Leonard"
-venue: "arXiv preprint"
+venue: "IEEE/RSJ IROS"
 arxiv: https://arxiv.org/abs/2303.14283
 code: https://github.com/doublestrong/gapslam
 video: https://user-images.githubusercontent.com/5796120/227429210-1b4cc67e-ec85-4073-b194-3746663c0fc2.mov

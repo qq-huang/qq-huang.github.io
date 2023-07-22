@@ -6,7 +6,7 @@ image: /images/omp.gif
 categories: research
 author: "Qiangqiang Huang"
 authors: "<strong>Qiangqiang Huang</strong>, Joseph DeGol, Victor Fragoso, Sudipta N. Sinha, John J. Leonard"
-venue: "IEEE Robotics and Automation Letters (RA-L)"
+venue: "IEEE Robotics and Automation Letters (RA-L) & IEEE/RSJ IROS"
 arxiv: https://arxiv.org/abs/2211.01513
 code: https://github.com/doublestrong/OMP
 video: https://user-images.githubusercontent.com/5796120/224241331-9ab8705b-3676-4709-9e3e-f26a33c1486a.mov
